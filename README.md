@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo.svg" alt="" width="150">
+  <img src="https://raw.githubusercontent.com/duceppemo/brucetyper/main/docs/logo.svg" alt="brucetyper logo" width="150">
 </p>
 
 <h1 align="center">brucetyper</h1>
@@ -10,7 +10,7 @@
   <a href="https://pypi.org/project/brucetyper/"><img src="https://img.shields.io/pypi/v/brucetyper" alt="PyPI"></a>
   <a href="https://bioconda.github.io/recipes/brucetyper/README.html"><img src="https://img.shields.io/conda/vn/bioconda/brucetyper" alt="Bioconda"></a>
   <img src="https://img.shields.io/badge/python-3.7%2B-blue" alt="Python 3.7+">
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/duceppemo/brucetyper" alt="License"></a>
+  <a href="https://github.com/duceppemo/brucetyper/blob/main/LICENSE"><img src="https://img.shields.io/github/license/duceppemo/brucetyper" alt="License"></a>
   <a href="https://github.com/duceppemo/brucetyper/wiki"><img src="https://img.shields.io/badge/docs-wiki-informational" alt="Documentation"></a>
   <a href="https://doi.org/10.5281/zenodo.23815138"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23815138.svg" alt="DOI"></a>
 </p>
@@ -72,7 +72,7 @@ RB51    rb51   RB51                 919                       1300;919          
 ## Documentation
 
 Everything else is in the [wiki](https://github.com/duceppemo/brucetyper/wiki), whose sources are
-maintained in [`docs/wiki`](docs/wiki):
+maintained in [`docs/wiki`](https://github.com/duceppemo/brucetyper/tree/main/docs/wiki):
 
 - [Installation](https://github.com/duceppemo/brucetyper/wiki/Installation) — pip, pipx, from a
   clone, and what gets installed
@@ -92,7 +92,7 @@ maintained in [`docs/wiki`](docs/wiki):
 - [Development](https://github.com/duceppemo/brucetyper/wiki/Development) — the test suite and the
   legacy 2023 scripts
 
-All primers and expected band sizes live in [`brucetyper/assays.py`](brucetyper/assays.py) and
+All primers and expected band sizes live in [`brucetyper/assays.py`](https://github.com/duceppemo/brucetyper/blob/main/brucetyper/assays.py) and
 nowhere else. Edit that
 file to change how genotypes are called.
 
@@ -112,9 +112,9 @@ on the [wiki](https://github.com/duceppemo/brucetyper/wiki/Assays#assay-sources)
 > *Brucella*. https://doi.org/10.5281/zenodo.23815138
 
 The DOI above always resolves to the latest release; see
-[`CITATION.cff`](CITATION.cff).
+[`CITATION.cff`](https://github.com/duceppemo/brucetyper/blob/main/CITATION.cff).
 
 ## License
 
-[MIT](LICENSE). Copyright held by His Majesty the King in Right of Canada, as represented by the
+[MIT](https://github.com/duceppemo/brucetyper/blob/main/LICENSE). Copyright held by His Majesty the King in Right of Canada, as represented by the
 Canadian Food Inspection Agency.
